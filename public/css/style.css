@@ -1,0 +1,40 @@
+/* il y a rien encore ici :(  */
+body{
+    margin: 0;
+    
+}
+header{
+    background-image: url("../images/banner.jpg");
+    background-size: cover;
+    height: 600px;
+    padding: 10px;
+   
+}
+header div{
+    margin-top: 270px;
+}
+header div h2{
+    font-family: 'Pacifico', cursive;
+    text-align: center; 
+    color: white;
+}
+header div hr{
+    width: 35%;
+    
+}
+header div h4{
+    color: grey;
+    text-align: center;
+}
+header div a{
+    color: grey;
+    text-decoration: underline;
+}
+
+section{
+    background-color: rgb(214, 212, 212);
+}
+
+section #introduction{
+    margin-top: 10px;
+}
